@@ -33,3 +33,5 @@ fields:
   - type: file
     name: image
     label: image
+pages:
+- content/products/mantenimiento-preventivo-y-correctivo-de-computadores.md
